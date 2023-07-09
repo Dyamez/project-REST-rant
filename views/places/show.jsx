@@ -71,13 +71,13 @@ function show (data) {
                   </div>
                   <div className="col-md-4">
                     <label htmlFor="author" className="form-label">
-                      Your Name
+                      Author
                     </label>
                     <input className="form-control" id="author" name="author" />
                   </div>
-                  <div className="col-md-4">
+                  <div className="col-md-4"> 
                   <label htmlFor="stars" className="form-label">
-                    Stars
+                    Star Rating
                   </label>
                   <input
                     className="form-range"
@@ -96,7 +96,7 @@ function show (data) {
                       htmlFor="rant"
                       id="rant-checkbox"
                     >
-                      Rant?
+                      Not Happy?
                     </label>
                     <br />
                     <input

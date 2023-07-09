@@ -1,8 +1,6 @@
-# project-rest-rant Part 9
-Part 9: Seeding data, validations, and helper methods
+# project-rest-rant Part 10
+Part 10: Adding commentary: rants and raves
 BE class assignment
-
-## In Progress
 
 **CSS** Bootstrap 
 
@@ -66,6 +64,4 @@ Paper & Wireframing drafting...
 ### Ideas
 Add-on's
 * More Information
-* Commenting
 * Thumbs-Up or Down
-* Dropdown selection
